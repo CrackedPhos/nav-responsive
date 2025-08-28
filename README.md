@@ -1,6 +1,6 @@
 # NavResponsive Blog Layout
 
-A responsive website built with **HTML** and **CSS**, featuring a **Dark/Light mode toggle**. This project demonstrates modern front-end practices including flexbox layouts, responsive design, and accessible typography.
+A responsive website built with **HTML** and **CSS**, featuring a **Dark/Light mode**. This project demonstrates modern front-end practices including flexbox layouts, responsive design, and accessible typography.
 
 ---
 
